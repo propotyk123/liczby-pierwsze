@@ -29,7 +29,7 @@
     }
     static void Wyswietlanie(bool[] tab)
     {
-        for ( int i = 3; i < tab.Length; i++)
+        for ( int i = 2; i < tab.Length; i++)
         {
             if (tab[i] == true)
             {
